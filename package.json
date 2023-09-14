@@ -173,6 +173,10 @@
       "tmp/**",
       "prettier.config.js"
     ],
+    "extension": [
+      ".js",
+      ".mjs"
+    ],
     "reporter": [
       "lcov",
       "html",

@@ -14,6 +14,8 @@ functions:
     handler: async.handler
   asyncCjs:
     handler: async-cjs.handler
+  asyncEsmMjs:
+    handler: esm/async-esm-mjs.handler
   asyncEsm:
     handler: esm/async-esm.handler
   contextDone:
